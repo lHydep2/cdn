@@ -7,7 +7,7 @@
 .toptrig { width: 0; height: 0; border-top: 450px solid #AB0936; border-left: 450px solid transparent; 
  position: absolute; top: -2px; left:-2px; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
-#trigcont:hover .toptrig { position: absolute; bottom:452px; right:-450px;}
+#trigcont:hover .toptrig { position: absolute; top:452px; right:-450px;}
 /*aqui vai o fim desta caralha*/
 
 /*Aqui vai o inicio da imagem preta e o hover dela*/
