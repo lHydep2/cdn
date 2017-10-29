@@ -1,0 +1,17 @@
+/*Hover inicial*/
+
+#img_menu{
+ width:500px;
+ height:600px;
+ background-color:#676470;
+ transition:all 0.2s ease;}
+ 
+ .hover_inicial{
+ width:500px;
+ heigth:600px;
+ background-color:#450258;
+ transition:all 0.2s ease;
+ -webkit-transform: scale(1.3);
+ -ms-transform: scale(1.3);
+ transform: scale(1.3);}
+ 
