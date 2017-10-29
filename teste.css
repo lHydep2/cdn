@@ -1,0 +1,44 @@
+<link href='http://fonts.googleapis.com/css?family=Noto+Serif|Rokkitt:700' rel='stylesheet' type='text/css'>
+<style type="text/css">
+.toptrig { width: 0; height: 0; border-top: 450px solid #AB0936; border-left: 450px solid transparent; position: absolute; top: -2px; left:-2px; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
+.bottomtrig { width: 0; height: 0; border-bottom: 450px solid #1F1C19; border-right: 450px solid transparent; position: absolute; top:-2px; left: -2px;  -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
+#trigcont {width:448px; height:448px; overflow:hidden; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out; position: relative;}
+#trigcont:hover .toptrig { position: absolute; right:-452px; top:-450px;}
+#trigcont:hover .bottomtrig {position: absolute; top:452; left:-450px;}
+.icona { width:225px; height:225px;  border: 10px solid rgb(255, 255, 255); border: 10px solid rgba(255, 255, 255, .5); -webkit-background-clip: padding-box; background-clip: padding-box; background-image:url(http://placehold.it/225x225); position: absolute; top: 100px; left: 100px; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
+#iconcont {width:451px; height:451px; overflow:hidden;}
+#iconcont:hover .icona { opacity:0; }
+#trigcont:hover .icona { opacity:0; }
+#textbx { width:448px; height:448px; background-color:#AB0936; position: absolute; left: 0; top: 0; }
+#txtbx {width:375px; height:375px; padding:10px; margin-top: 25px; text-align:justify; background-color:#fafafa; color:#191919;}
+.txthead { color:#AB0936; font-family: rokkitt; font-size:48px; text-transform:uppercase; padding-top:5px; margin-top:-15px;}
+.mrcr { margin-top:20px; }
+.txtsub { color:#ccccc; font-family: georgia; font-size:9px; text-transform:uppercase; padding-top:7px; line-height:95%; width:325px; text-align:justify; font-style: normal;}
+#txp { padding-top:103px; }
+.mercpls {font-family:georgia; width:305px; height:130px; overflow:auto; text-align:justify; font-size:11px; line-height:97%; margin-top:3px; border-left: 10px solid #AB0936;padding:5px; background-color:#E1E1DF;}
+.mercpls::-webkit-scrollbar { background: #191919; width: 10; }
+.mercpls::-webkit-scrollbar-thumb { background: #AB0936; width: 10px }
+.mercpls::-webkit-scrollbar-corner { background: #191919; }
+</style>
+
+<center>
+<div id="iconcont">
+<div id="trigcont">
+
+<div id="textbx">
+<div id="txtbx"><center>
+<img src="http://placehold.it/350x200"><br>
+<div class="txthead">VIRGINIA QUIRK</div>
+<div class="txtsub">will you still love me when i'm no longer young and beautiful will you still love me when i've got nothing but my aching soul?</div>
+
+<div class="mercpls">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div></center><div>
+</div>
+
+<div class="toptrig"></div>
+<div class="bottomtrig"></div></div>
+<div class="icona"></div></div>
+
+<a href="http://code.jfbs.net/index.php?showtopic=37">▲</a><a href="http://z10.invisionfree.com/CAUTIONTOTHEWIND/index.php?showuser=37282">▲</a><a href="http://z10.invisionfree.com/A_THOUSAND_FIREFLIES/index.php?showuser=9524">▲</a>
+
+</center>
