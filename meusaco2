@@ -1,0 +1,25 @@
+/*Hover inicial*/
+
+ 
+#hover_nicial{
+ width: 500px; 
+ height: 600px; 
+ overflow: hidden; 
+ position: relative;
+ background-color:#676470;
+ transition:all 0.2s ease;
+ }
+ 
+ .hover_inicial:hover{
+ width:500px;
+ heigth:600px;
+ background-color:#450258;
+ position: absolute; 
+ transition: 0.8s all ease-in-out;
+ -webkit-transition: 0.8s all ease-in-out;
+ -moz-transition: 0.8s all ease-in-out;
+ -o-transition: 0.8s all ease-in-out; 
+ right: 0px;
+ top: 0px; 
+ }
+ 
