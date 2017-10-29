@@ -1,6 +1,6 @@
 #quadrado{
- width:400px;
- heigth:300px;
+ width:600px;
+ heigth:500px;
  border:solid; border-color: #666666;
  border-color:#555fff;
  position:relative;
@@ -11,12 +11,11 @@
 
 #quadrado:hover {
  background-image: url('https://prnt.sc/h3mvdz');
- width: 600px;
- height: 500px;
+ width: 450px;
+ height: 350px;
  border:solid; border-color: #FF6644;
  -moz-border-radius:10px; 
  -webkit-border-radius:10px;;
- background-color:#FF2200;
  position:relative;
  top:0;
  left:0;
