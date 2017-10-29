@@ -1,0 +1,55 @@
+/*Hover inicial*/
+
+#retangulo{
+width: 150px;
+height: 215px;
+border:solid; border-color: #666666;
+-moz-border-radius:10px; 
+-webkit-border-radius:10px;;	
+}
+#numero{
+width: 35px;
+height: 65px;	
+font-family:Arial, Helvetica, sans-serif; font-size:50px;color: #FF9900;
+}
+#palavra{
+margin-top:12px;
+margin-left:20px;
+width: 130px;
+height: 30px;
+font-family:Verdana, Geneva, sans-serif; font-size:19px;color: #FF9900;
+}
+
+#retangulo1{
+width: 150px;
+height: 275px;
+border:solid; border-color: #666666;
+-moz-border-radius:10px; 
+-webkit-border-radius:10px;;
+background-color:#FF2200;	
+}
+#numero1{
+margin-top:15px;
+width: 35px;
+height: 65px;	
+font-family:Arial, Helvetica, sans-serif; font-size:50px;color: #000;
+}
+#palavra1{
+margin-top:125px;
+margin-left:12px;
+width: 137px;
+height: 40px;
+font-family:Verdana, Geneva, sans-serif; font-size:15px;color: #000;
+}
+
+#rotacao {
+font-family:Arial, Helvetica, sans-serif; font-size:19px; color: #000;
+margin-left:-20px;
+margin-top:-180px;
+width: 126px;
+height: 30px;
+-webkit-transform: rotate(-90deg);/* Safari */
+-o-transform: rotate(-90deg);/* Opera */
+-moz-transform: rotate(-90deg);/* Firefox */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);/* Internet Explorer */
+}
