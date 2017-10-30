@@ -1,0 +1,49 @@
+ div.box {
+   width: 600px;
+   height: 2500px;
+   border: 1px solid black;
+   background-image: url(https://i.imgur.com/N17plbn.jpg);
+   top: 0;
+   left: 0;
+   z-index: 1;
+ }
+ 
+ #jolly {
+   background-image: url(https://i.imgur.com/2CVRSic.png);
+   width: 500px;
+   heigth: 250px;
+   position: absolute;
+   top: 110px;
+   left: 60px;
+   z-index: 2;
+ }
+ 
+ .player1 {
+   width: 520px;
+   heigth: 430px;
+   min-width:520px;
+   min-height:430px;
+   background-image: url(https://i.imgur.com/bnvmRNl.png);
+   position: relative;
+   top: 375px;
+   left: 40px;
+   visibility: visible;
+   -webkit-transition: all 1.1s linear;
+   -o-transition: all 1.1s linear;
+   -moz-transition: all 1.1s linear;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player1:hover {
+   width: 500px;
+   heigth: 280px;
+   min-width:500px;
+   min-height:280px;
+   background-image: url(https://i.imgur.com/eaxA56I.png);
+   position: relative;
+   top: 450px;
+   left: 50px;
+   z-index: 1;
+ }
