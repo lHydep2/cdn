@@ -1,4 +1,5 @@
 /**Configurações do kenshin**/
+
 #menu-kenshin{
   background: #000;
   opacity: .6;
@@ -10,7 +11,7 @@
   display: none;
 }
 
-.kenshin-box{
+div.kenshin-box{
  background: #FFF;
  width: 60%;
  height: 150px;
